@@ -1,6 +1,9 @@
 public class Solution {
     public static void main(String[] args) {
         int i = strStr("abbcd", "bc");
+        /**
+         * 这里添加注释的原因是想要测试git的切换版本，这一版代码没做修改，仅仅是添加了这个注释
+         */
         System.out.println(i);
     }
     public static int strStr(String haystack, String needle) {
