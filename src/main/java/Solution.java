@@ -6,6 +6,7 @@ public class Solution {
          */
         System.out.println(i);
         System.out.println("测试git第4版");
+        System.out.println("master test");
     }
     public static int strStr(String haystack, String needle) {
         if(needle==null) return -1;
